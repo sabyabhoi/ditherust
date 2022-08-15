@@ -1,7 +1,9 @@
 debug/
+dist/
 target/
 assets/
 /**/*.py
+/**/*.html
 
 Cargo.lock
 

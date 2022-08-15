@@ -1,14 +1,14 @@
-use color_eyre::eyre::Result;
 use clap::Parser;
+use color_eyre::eyre::Result;
 
 use ditherust::process_image;
 
 #[derive(Parser, Debug)]
 struct Args {
     #[clap(short, long, value_parser)]
-    /// Path of image to dither 
+    /// Path of image to dither
     filename: String,
-    
+
     #[clap(short, long, value_parser)]
     /// Path to theme
     theme: String,

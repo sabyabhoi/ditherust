@@ -1,8 +1,4 @@
 <div align="center">
-  <a href="https://github.com/sabyabhoi/ditherust">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
 <h3 align="center">Ditherust</h3>
 
   <p align="center">
@@ -14,7 +10,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This application employs the [Floyd-Steinberd Dithering Algorithm](https://en.wikipedia.org/wiki/Floyd%E2%80%93Steinberg_dithering) to dither an image.
+This application employs the [Floyd-Steinberg Dithering Algorithm](https://en.wikipedia.org/wiki/Floyd%E2%80%93Steinberg_dithering) to dither an image.
 
 ### Built With
 
